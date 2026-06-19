@@ -221,7 +221,3 @@ Contributions, improvements, and feature suggestions are welcome.
 This project is open-source and available under the MIT License.
 
 ---
-
-## 👨‍💻 Author
-
-Developed as a beginner-friendly Python project for learning file handling, budgeting logic, and command-line application development.
