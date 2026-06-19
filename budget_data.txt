@@ -1,0 +1,2 @@
+income,Monthly Allowance,5000.0
+expense,Food,400.0
